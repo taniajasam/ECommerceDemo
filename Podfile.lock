@@ -1,0 +1,22 @@
+PODS:
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+  - TOCropViewController (2.5.2)
+
+DEPENDENCIES:
+  - Kingfisher
+  - TOCropViewController
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - TOCropViewController
+
+SPEC CHECKSUMS:
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+  TOCropViewController: e9da34f484aedd4e5d5a8ab230ba217cfe16c729
+
+PODFILE CHECKSUM: 755fe4520ade82cc3d0843e94816ccf50b4dd162
+
+COCOAPODS: 1.9.1
